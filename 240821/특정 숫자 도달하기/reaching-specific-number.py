@@ -15,4 +15,4 @@ else:
     average = total_sum / len(arr)
 
 print(total_sum, end=" ")
-print(average)
+print(round(average, 1))
